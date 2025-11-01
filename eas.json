@@ -8,13 +8,13 @@
       "distribution": "internal",
       "android": { "buildType": "apk" },
       "env": {
-        "EXPO_ROUTER_APP_ROOT": "./app"
+        "EXPO_ROUTER_APP_ROOT": "app"
       }
     },
     "production": {
       "android": { "buildType": "app-bundle" },
       "env": {
-        "EXPO_ROUTER_APP_ROOT": "./app"
+        "EXPO_ROUTER_APP_ROOT": "app"
       }
     }
   },
